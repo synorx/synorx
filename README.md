@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @synorx
-- 👀 I’m interested in GIS Developing
-- 🌱 I’m currently learning JavaScript
+- 👋 Hi, I’m Alperen Düzen
+- 👀 I’m interested in GIS Developing and Satellite Image Processing
+- 🌱 I’m currently working at PiriReis Bilişim
 
 
 
